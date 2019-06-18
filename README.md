@@ -6,7 +6,7 @@ The pipeline has been developed for the Pawsey system which uses a SLURM job sch
 
 ## Credits
 If you use this code, or incorporate it into your own workflow, please give credit to
-the contributors and obey the [licence](LICENCE).
+the contributors and obey the [license](LICENSE).
 Please acknowledge the use of this code by citing this repository.
 
 ## Project Structure
